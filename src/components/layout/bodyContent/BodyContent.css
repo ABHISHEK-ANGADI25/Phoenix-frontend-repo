@@ -1,0 +1,14 @@
+.heading {
+    width: 289px;
+    height: 34px;
+    top: 192px;
+    left: 567px;
+}
+
+.heading-fonts {
+    font-family: Gilroy-SemiBold;
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: -0.06em;
+    text-align: center;
+}
