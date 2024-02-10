@@ -1,14 +1,57 @@
-.heading {
+.box {
     width: 289px;
     height: 34px;
     top: 192px;
     left: 567px;
 }
 
-.heading-fonts {
-    font-family: Gilroy-SemiBold;
+.typography {
+    font-family: "Gilroy-SemiBold";
     font-size: 28px;
-    line-height: 33px;
+    /* line-height: 33px; */
     letter-spacing: -0.06em;
     text-align: center;
+    color: #fff;
+}
+
+.tagLine {
+    width: Hug (1280px);
+    height: Hug (187px);
+    top: 437px;
+    left: 80px;
+    gap: 8px
+}
+
+.typography-heading {
+    font-family: "Gilroy-Bold";
+    font-size: 180px;
+    font-weight: 400;
+    line-height: 6px;
+    letter-spacing: -0.06em;
+    text-align: center;
+    color: #fff;
+}
+
+.tabular {
+    font: "Gilroy-SemiBold";
+    color: "#16242A";
+    width: "Hug (1,280px)";
+    height: "Hug (187px)"
+}
+
+.vector {
+    width: 1688.19px;
+    height: 114.98px;
+    top: 755.31px;
+    left: -53.97px;
+    border: 350px;
+    rotate: -0.92 deg;
+}
+
+.vector-color {
+    background: #F2F4F6;
+}
+
+.vector-borders {
+    border: 350px solid #F2F4F6
 }

@@ -1,0 +1,25 @@
+.bg {
+    /* The image used */
+    background-image: url("../../assests/images/c8b74e6522ade4abab74ff7ad529f2f1.jpg");
+    width: 1446px;
+    height: 964px;
+    top: -17px;
+    left: -3px;
+}
+
+.vector {
+    width: 1688.19px;
+    height: 114.98px;
+    top: 755.31px;
+    left: -53.97px;
+    border: 350px;
+    rotate: -0.92 deg;
+}
+
+.vector-color {
+    background: #F2F4F6;
+}
+
+.vector-borders {
+    border: 350px solid #F2F4F6
+}

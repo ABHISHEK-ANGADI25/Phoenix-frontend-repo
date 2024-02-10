@@ -22,8 +22,9 @@ export default function Header() {
     };
 
     return (
-        <Box sx={{ width: '100%', bgcolor: 'background.paper' }}>
-            <Tabs value={value} onChange={handleChange} centered textColor="secondary"
+        <Box sx={{ width: '100%', bgcolor: 'transparent', font: "Gilroy-SemiBold", color: "#16242A" }}>
+            <Tabs value={value} onChange={handleChange}
+                centered textColor="secondary"
                 indicatorColor="secondary"
                 aria-label="secondary tabs example">
                 <Tab value="home" label="Home" />
